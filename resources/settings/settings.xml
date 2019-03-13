@@ -175,6 +175,10 @@
 		<settingConfig type="boolean"/>
 	</setting>
 
+	<setting propertyKey="@Properties.HideDate" title="@Strings.HideDateTitle">
+		<settingConfig type="boolean"/>
+	</setting>
+
 	<setting propertyKey="@Properties.LocalTimeInCity" title="@Strings.LocalTimeInCityTitle">
 		<settingConfig type="alphaNumeric"/>
 	</setting>

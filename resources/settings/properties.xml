@@ -1,6 +1,6 @@
 <properties>
 
-	<property id="AppVersion" type="string">2.3.0</property>
+	<property id="AppVersion" type="string">2.3.0.a</property>
 
 	<property id="Theme" type="number">0</property>
 
@@ -28,6 +28,7 @@
 	
 	<property id="HideSeconds" type="boolean">false</property>
 	<property id="HideHoursLeadingZero" type="boolean">true</property>
+	<property id="HideDate" type="boolean">false</property>	
 
 	<!-- -360.0 is a special value, meaning "unitialised". Can't have null float property. -->
 	<property id="LastLocationLat" type="float">-360.0</property>

@@ -14,6 +14,7 @@
 	<string id="MoveBarStyleTitle">Вид полосы подвижности</string>
 	<string id="HideSecondsTitle">Скрывать секунды</string>
 	<string id="HideHoursLeadingZeroTitle">Скрывать нули перед часами</string>
+	<string id="HideDateTitle">Hide Display Date</string>
 
 	<string id="FieldCountTitle">Количество полей данных</string>
 	<string id="DataField1Title">Поле данных 1</string>

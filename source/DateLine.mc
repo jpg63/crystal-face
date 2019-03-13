@@ -92,10 +92,12 @@ class DateLine extends Ui.Drawable {
 		}
 
 		var day = now.day.format(INTEGER_FORMAT);
-		if (mYLine2 != null) {
+		if (!(App.getApp().getProperty("HideDate"))) {
+		  if (mYLine2 != null) {
 			drawDoubleLine(dc, day);
-		} else {
+		  } else {
 			drawSingleLine(dc, day);
+		  }
 		}
 	}
 

@@ -14,6 +14,7 @@
 	<string id="MoveBarStyleTitle">Wygląd Move Bar'a</string>
 	<string id="HideSecondsTitle">Ukryj Sekundy</string>
 	<string id="HideHoursLeadingZeroTitle">Ukryj Zero Poprzedzające Godzinę</string>
+	<string id="HideDateTitle">Hide Display Date</string>
 
 	<string id="FieldCountTitle">Liczba Pól z Danymi</string>
 	<string id="DataField1Title">Pole Danych 1</string>

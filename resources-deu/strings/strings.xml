@@ -14,6 +14,7 @@
 	<string id="MoveBarStyleTitle">Move Bar Style</string>
 	<string id="HideSecondsTitle">Sekunden ausblenden</string>
 	<string id="HideHoursLeadingZeroTitle">Blende führende Nullen aus</string>
+	<string id="HideDateTitle">Hide Display Date</string>
 
 	<string id="FieldCountTitle">Anzahl der Datenfelder</string>
 	<string id="DataField1Title">Datenfeld 1</string>
